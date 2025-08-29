@@ -2,6 +2,8 @@
 
 Crie uma tela Flutter com um campo para digitar o nome do curso e um botão de busca. Ao buscar, exiba as informações do curso, como duração e descrição, se encontrado.
 
+Somente Web, para poder ser aceito.
+
 - Cursos Existentes:
 -  Dart
 -  Flutter
